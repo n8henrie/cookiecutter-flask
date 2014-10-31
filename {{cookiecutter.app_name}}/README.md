@@ -1,7 +1,7 @@
 {{ cookiecutter.project\_name }}
 ================================
 
-{{ cookiecutter.project\_short\_description}}
+{{ cookiecutter.project\_short\_description }}
 
 Quickstart
 ----------
@@ -9,8 +9,8 @@ Quickstart
 First, set your app's secret key as an environment variable. For
 example, example add the following to `.bashrc` or `.bash_profile`.
 
-~~~~ {.sourceCode .bash}
-export {{cookiecutter.app_name | upper}}_SECRET = 'something-really-secret'
+~~~~ {.sourceCode .bash }
+export {{cookiecutter.app_name | upper }}_SECRET = 'something-really-secret'
 ~~~~
 
 Then run the following commands to bootstrap your environment.
