@@ -4,5 +4,6 @@
 	"github_username": "n8henrie",
 	"project_name": "My Flask App",
 	"app_name": "myflaskapp",
-	"project_short_description": "A flasky app."
+	"project_short_description": "A flasky app.",
+    "version": "0.1.0"
 }

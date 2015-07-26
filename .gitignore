@@ -43,5 +43,5 @@ docs/_build
 # Cookiecutter
 output/
 
-myflaskapp/
-bower_components
+# Sass / compass stuff
+.sass-cache/
